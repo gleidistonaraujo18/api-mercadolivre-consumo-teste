@@ -1,0 +1,19 @@
+{
+  "name": "api-mercadolivre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Gleidiston Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "api-mercadolivre": "file:",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.7"
+  }
+}
